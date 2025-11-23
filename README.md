@@ -1,4 +1,6 @@
 # 3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
+# Name:Rabin R
+# Reg No:212223060215
 
 **Aim:**
 
